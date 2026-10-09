@@ -1,0 +1,6 @@
+{
+  "name": "Tumbas Mas - Luxury Streetwear Marketplace",
+  "description": "Webstore streetwear premium Calle de Larache style dengan 12 produk (kaos boxy, zipper hoodie, celana jeans), shopping cart instan, admin panel lengkap, approval bukti transfer, dan database PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
